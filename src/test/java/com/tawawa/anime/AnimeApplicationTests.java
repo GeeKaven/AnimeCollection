@@ -1,13 +1,13 @@
-package moe.yuyuyu.ani;
+package com.tawawa.anime;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnimeCApplicationTests {
+class AnimeApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
